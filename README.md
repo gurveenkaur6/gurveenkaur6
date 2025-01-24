@@ -2,8 +2,8 @@
 
 - 🔭 I'm currently leveling up my coding game and diving into new frameworks and languages to expand my skills.
 - 🌱 I’m currently learning about various neural network models, including CNNs, RNNs, and the latest advancements in LLMs. My focus includes both theoretical understanding and practical implementation using frameworks such as TensorFlow and PyTorch.
-- 👯 I’m looking to collaborate on innovative projects that challenges me, inspires me as well as that helps people.
-- 🤔 I’m currently looking for Fall 2024 and Winter 2025 SWE internships.
+- 👯 I’m eager to collaborate on innovative, impactful projects that challenge and inspire me.
+- 🤔 I’m seeking Software Engineering internship opportunities for Summer 2025.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn- https://www.linkedin.com/in/gurveen-sahni-a01630246 or drop me an email at gurveenkaursahni@gmail.com. Let's chat and collaborate!
 - ⚡ Fun fact: I love love coffee and J'apprends le français pour le plaisir.
 
